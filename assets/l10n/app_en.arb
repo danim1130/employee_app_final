@@ -1,0 +1,95 @@
+{
+    "@@locale": "en",
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "alertDialogTitle": "Are you sure?",
+    "@alertDialogTitle": {
+      "description": "Shown when user tries to leave the add user page."
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+      "description": "User cancels a given action."
+    },
+    "leave": "Leave",
+    "@cancel": {
+      "description": "User leaves the current page."
+    },
+    "addEmployeeTitle": "Add employee",
+    "@addEmployeeTitle": {
+      "description": "Title of add employee page"
+    },
+    "addEmployeeNameLabel": "Name",
+    "@addEmployeeTitle": {
+      "description": "Label of name field."
+    },
+    "addEmployeeNameHint": "Full Name",
+    "@addEmployeeTitle": {
+      "description": "Hint of name field."
+    },
+    "addEmployeeEmailLabel": "Email",
+    "@addEmployeeTitle": {
+      "description": "Label of email field."
+    },
+    "errorEmailFormat": "Wrong email format!",
+    "@errorEmailFormat": {
+      "description": "User inputs wrong email format."
+    },
+    "addEmployeePhoneLabel": "Phone",
+    "@addEmployeePhoneLabel": {
+      "description": "Label of phone field."
+    },
+    "addEmployeeStatusLabel": "Employement status",
+    "@addEmployeeStatusLabel": {
+      "description": "Label of phone field."
+    },
+    "employeeStatusManager": "Manager",
+    "@employeeStatusManager": {
+      "description": "Manager status of employee."
+    },
+    "employeeStatusWorker": "Worker",
+    "@employeeStatusWorker": {
+      "description": "Worker status of employee."
+    },
+    "addEmployeeCreateLabel": "Create",
+    "@employeeStatusWorker": {
+      "description": "Label for employee creation button."
+    },
+    "delete": "Delete",
+    "@delete": {
+      "description": "Confirm delete action."
+    },
+    "employeeListTitle": "Employee List",
+    "@employeeListTitle": {
+        "description": "Title shown on employee list page."
+    },
+    "loginTitle": "HR App",
+    "@loginTitle": {
+        "description": "Title of login screen"
+    },
+    "loginButton": "Login",
+    "@loginButton": {
+        "description": "Shown on login button (in all caps)"
+    },
+    "passwordLabel": "Password",
+    "@passwordLabel": {
+        "description": "Label of password field."
+    },
+    "loginError": "Error during logging in!",
+    "@loginButton": {
+        "description": "Shown in a snackbar on login error."
+    },
+    "automaticSignIn": "Sign in automatically!",
+    "@automaticSignIn": {
+        "description": "Label of automatic sign in field"
+    },
+    "searchResults": "Results",
+    "@searchResults": {
+        "description": "Title of search results"
+    },
+    "generalError": "Something went wrong, please try again!",
+    "@loginButton": {
+        "description": "General message for unknown error"
+    }
+}
