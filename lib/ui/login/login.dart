@@ -25,6 +25,7 @@ class LoginContent extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      resizeToAvoidBottomInset: false,
       body: BlocListener<LoginBloc, LoginState>(
         listener: (context, state) {
           if (state is LoginFinished) {
